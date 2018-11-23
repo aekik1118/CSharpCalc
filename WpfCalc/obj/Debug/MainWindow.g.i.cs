@@ -40,6 +40,134 @@ namespace WpfCalc {
     /// </summary>
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
+        
+        #line 10 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn7;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 11 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn8;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 12 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn9;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 13 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn4;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 14 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn5;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 15 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn6;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 16 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn1;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 17 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn2;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 18 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn3;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 19 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Btn0;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 20 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button BtnDot;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 21 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button BtnEq;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 22 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button BtnAdd;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 23 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button BtnSub;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 24 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button BtnMul;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 25 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button BtnDiv;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -68,6 +196,57 @@ namespace WpfCalc {
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
+            switch (connectionId)
+            {
+            case 1:
+            this.Btn7 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 2:
+            this.Btn8 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 3:
+            this.Btn9 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 4:
+            this.Btn4 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 5:
+            this.Btn5 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 6:
+            this.Btn6 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 7:
+            this.Btn1 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 8:
+            this.Btn2 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 9:
+            this.Btn3 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 10:
+            this.Btn0 = ((System.Windows.Controls.Button)(target));
+            return;
+            case 11:
+            this.BtnDot = ((System.Windows.Controls.Button)(target));
+            return;
+            case 12:
+            this.BtnEq = ((System.Windows.Controls.Button)(target));
+            return;
+            case 13:
+            this.BtnAdd = ((System.Windows.Controls.Button)(target));
+            return;
+            case 14:
+            this.BtnSub = ((System.Windows.Controls.Button)(target));
+            return;
+            case 15:
+            this.BtnMul = ((System.Windows.Controls.Button)(target));
+            return;
+            case 16:
+            this.BtnDiv = ((System.Windows.Controls.Button)(target));
+            return;
+            }
             this._contentLoaded = true;
         }
     }
