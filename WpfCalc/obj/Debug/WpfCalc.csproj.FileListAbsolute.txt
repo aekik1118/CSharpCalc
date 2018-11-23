@@ -1,1 +1,14 @@
 c:\users\aekik\onedrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\bin\Debug\WpfCalc.exe.config
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\bin\Debug\WpfCalc.exe
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\bin\Debug\WpfCalc.pdb
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\WpfCalc.csprojResolveAssemblyReference.cache
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\MainWindow.g.cs
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\App.g.cs
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\WpfCalc_MarkupCompile.cache
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\WpfCalc_MarkupCompile.lref
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\MainWindow.baml
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\WpfCalc.g.resources
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\WpfCalc.Properties.Resources.resources
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\WpfCalc.csproj.GenerateResource.Cache
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\WpfCalc.exe
+C:\Users\aekik\OneDrive\문서\visual studio 2015\Projects\WpfCalc\WpfCalc\obj\Debug\WpfCalc.pdb

@@ -20,9 +20,56 @@ namespace WpfCalc
     /// </summary>
     public partial class MainWindow : Window
     {
+        bool newButton;
+        double savedValue;
+        char myOperator;
+
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Btn_Click(object sender, RoutedEventArgs e)
+        {
+            Button btn = sender as Button;
+            string number = btn.Content.ToString();
+            if(textResult.Text == "0" || newButton == true)
+            {
+                textResult.Text = number;
+                newButton = false;
+            }
+            else
+            {
+                textResult.Text = textResult.Text + number;
+            }
+
+        }
+
+        private void BtnOp_Click(object sender, RoutedEventArgs e)
+        {
+            Button btn = sender as Button;
+
+            savedValue = double.Parse(textResult.Text);
+            myOperator = btn.Content.ToString()[0];
+            newButton = true;
+        }
+
+        private void Dot_Click(object sender, RoutedEventArgs e)
+        {
+            if (textResult.Text.Contains(".") == false)
+                textResult.Text += ".";
+        }
+
+        private void Equal_Click(object sender, RoutedEventArgs e)
+        {
+            if (myOperator == '+')
+                textResult.Text = (savedValue + double.Parse(textResult.Text)).ToString();
+            else if (myOperator == '-')
+                textResult.Text = (savedValue - double.Parse(textResult.Text)).ToString();
+            else if (myOperator == '×')
+                textResult.Text = (savedValue * double.Parse(textResult.Text)).ToString();
+            else if (myOperator == '÷')
+                textResult.Text = (savedValue / double.Parse(textResult.Text)).ToString();
         }
     }
 }
